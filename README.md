@@ -17,7 +17,7 @@ you need to download this before running the code --->-[social_media_engagement1
 - scipy, statsmodels
 
  Google Colab
-- Power BI (for visualisation)
+- Power BI (for visualisation and data cleaning and caluculations) 
 
 ## Methodology
 - Data cleaning and preprocessing
