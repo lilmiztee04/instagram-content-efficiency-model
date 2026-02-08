@@ -10,12 +10,13 @@ This project develops a data-driven Content Efficiency Model to evaluate social 
 
 ## Dataset
 The dataset used in this project was sourced from Kaggle and contains post-level engagement metrics such as likes, comments, saves, sentiment labels, content type, post day, and post time.
-
+you need to download this before running the code --->-[social_media_engagement1.csv](https://github.com/user-attachments/files/25161374/social_media_engagement1.csv)
 ## Tools & Technologies
 - Python
 - pandas, numpy
 - scipy, statsmodels
-- Google Colab
+
+ Google Colab
 - Power BI (for visualisation)
 
 ## Methodology
